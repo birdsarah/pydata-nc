@@ -1,0 +1,16 @@
+/********************************************
+ * CUSTOM - BIRD
+*********************************************/
+.reveal blockquote {
+  box-shadow: inherit;
+}
+
+.reveal .slide-title {
+  color: #A0CBE5; 
+  float: right;
+}
+
+.reveal h3 ~ ul {
+  margin-top: -25px;
+  margin-bottom: 20px;
+}

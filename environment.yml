@@ -1,0 +1,11 @@
+name: pydata-nc
+dependencies:
+  - python=3.5
+  - bokeh=0.12.3dev3
+  - pandas
+  - jupyter
+  - nodejs
+  - flask
+channels:
+  - conda-forge
+  - bokeh/channel/dev

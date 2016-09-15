@@ -1,2 +1,4 @@
-# pydata-nc
-Telling your data story - PyData NC (and tutorial snapshot)
+```sh
+$ conda env create
+$ bokeh sampledata
+```

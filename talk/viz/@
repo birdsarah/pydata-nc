@@ -1,0 +1,3 @@
+gapminder_expose.py|101 C| C901 'render_frame' is too complex (11) [mccabe]
+gapminder_expose.py|174 col 4 warning| W0603 Using the global statement [pylint]
+gapminder_expose.py|181 col 4 warning| W0603 Using the global statement [pylint]
